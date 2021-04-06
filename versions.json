@@ -1,11 +1,11 @@
 [ 
  {
    "version": "0.0.1",
-   "active": false,
+   "active": "false",
   },
   
  {
    "version": "1.0.0",
-   "active": true,
+   "active": "true",
   },
 ]
